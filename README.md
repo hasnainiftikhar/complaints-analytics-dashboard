@@ -1,6 +1,9 @@
-**Complaints Analytics Dashboard** Welcome to the Complaints Analytics Dashboard project! This repository contains the code and resources for a comprehensive dashboard designed to analyze and visualize complaints data across various healthcare facilities. The dashboard provides insightful analytics to help identify trends, distribution, and patterns in complaints, enabling better decision-making and improvement strategies.
+**Complaints Analytics Dashboard** 
+
+Welcome to the Complaints Analytics Dashboard project! This repository contains the code and resources for a comprehensive dashboard designed to analyze and visualize complaints data across various healthcare facilities. The dashboard provides insightful analytics to help identify trends, distribution, and patterns in complaints, enabling better decision-making and improvement strategies.
 
 **Project Overview**
+
 The Complaints Analytics Dashboard is a powerful tool for healthcare administrators and analysts. It enables them to:
 
 - Track the total number of complaints over time.
